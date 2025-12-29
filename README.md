@@ -1,4 +1,4 @@
-# AgriAI - AI-Powered Agriculture Monitoring and Pest Detection Platform
+# AgriAI 
 
 A complete Django web application for AI-powered agriculture monitoring, pest detection, and crop health assessment.
 
@@ -215,4 +215,5 @@ For questions or issues, please use the Contact page on the website or create an
 ---
 
 **Built with ❤️ using Django and Bootstrap**
+
 
